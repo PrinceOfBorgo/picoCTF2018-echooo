@@ -1,6 +1,6 @@
 # picoCTF2018 - echooo
 ## Text
-> This program prints any input you give it. Can you leak the flag? Connect with nc 2018shell.picoctf.com 46960. [Source](https://github.com/PrinceOfBorgo/picoCTF2018-echooo/blob/master/echo.c).
+> This program prints any input you give it. Can you leak the flag? Connect with `nc 2018shell.picoctf.com 46960`. [Source](https://github.com/PrinceOfBorgo/picoCTF2018-echooo/blob/master/echo.c).
 
 Port may be different.
 
